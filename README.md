@@ -3,7 +3,7 @@
 
 Meu nome é Débora dos Santos Pires de Camargo mas pode me chamar de Dé. 
 Sou formada em Processo Gerenciais desde 2019, e estudo programação desde Julho de 2023.
-Atualmente sou aluna do curso de Ddesenvolvimento de Software - Foco em Backend na Cubos Academy.
+Atualmente sou aluna do curso de desenvolvimento de software - Foco em Backend na Cubos Academy.
 
 
 ## :point_right: Para me encontrar:
