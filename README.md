@@ -7,7 +7,7 @@ Atualmente sou aluna do curso de desenvolvimento de software - Foco em Backend n
 
 
 ## :point_right: Para me encontrar:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamedeirospocarli/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deboraspcamargo/)
 <a href="mailto:jessicamedeirosp96@gmail.com">
 
 
